@@ -2,6 +2,11 @@
 
 This is a simple command-line-based book inventory management system, created as a skills review during a job interview. It allows users to add, sell, and check the stock of books efficiently, all while storing data in a CSV file.
 
+Watch the Walkthrough Video:
+- [Download it through Google Drive](https://drive.google.com/file/d/1TndSIQLc2lPB1C8hsoiLA9zEoQAqBB1A/view?usp=sharing)
+- [Stream it on YouTube](https://youtu.be/HpUqecCt-d8)
+
+
 ## Table of Contents
 
 - [Features](#features)
