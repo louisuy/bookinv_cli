@@ -53,10 +53,9 @@ python bookinv.py
 
 ## Optimizations
 
-This program is a basic implementation. Consider the following optimizations:
+This program is a basic implementation. I am considering the following optimizations:
 
-- **Error Handling:** Implement more robust error handling for file operations and input validation.
-- **Data Validation:** Add more data validation for various input fields.
-- **Data Storage:** Depending on the scale, consider using a more scalable data storage solution like a database.
-- **User Interface:** Enhance the command-line interface for a better user experience.
+- **Error Handling & Data Validation:** Implement more robust error handling input validations, these are present for integers/floats/ISBN numbers, but can still occur elsewhere in the code.
+- **Data Storage:** Depending on the scale, consider using a more scalable data storage solution like a database, as this current version uses a CSV.
+- **User Interface:** Enhance the command-line interface for a better user experience, or perhaps use a framework like Django or Flask to bring it onto the web and implement a Web UI.
 - **Logging:** Implement logging for debugging and auditing.
